@@ -1,7 +1,7 @@
 // src/config/api.js
 
 // Base URLs for different services
-export const USER_SERVICE_URL = 'https://e-commerce-ui-five-delta.vercel.app';
+export const USER_SERVICE_URL = 'https://ecom-user-service-production.up.railway.app/';
 export const PRODUCT_SERVICE_URL = 'http://localhost:8081';
 
 export const API_ENDPOINTS = {
